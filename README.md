@@ -1,4 +1,18 @@
 # Flight_Booking_System
+<br><br><br>
+## What is in this project? <br>
+**1. in this project user login and admin login both are available** <br>
+**2. User can register his/her self using Name, Email, Phone No, password** <br>
+**3. Admin can add flight and check availability of flight, also it can add more admin** <br>
+**4. User can serach for flight for both return & one-way**
+<br><br><br>
+## Technologies!!! <br>
+**Front-End :-** HTML, CSS, JS
+<br>
+**Back_end :-** Django
+<br>
+**Database :-** MYSQL
+<br><br><br>
 
 <h3> How to start project !!! &#128525</h3>
 <ol>
